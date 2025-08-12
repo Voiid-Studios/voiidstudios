@@ -1,5 +1,6 @@
 # Voiid Studios Public License (VSPL)
 Effective Date: November 20, 2024
+
 Last Modified: August 12, 2025
 
 This License governs the use of all Assets created and publicly released by Voiid Studios. By using any Asset covered by this License, You agree to comply with its terms. Voiid Studios may modify this License at any time and without prior notice. Continued use of the Assets after any modification constitutes acceptance of the updated License.
@@ -34,4 +35,5 @@ For the purposes of this License:
 
 ## 5. OFFICIAL PERMISSION
 Since Voiid Studios owns all copyrights to its Assets, any part of this License may be individually voided by explicit written permission from Voiid Studios.
+
 Voiid Studios reserves the right to create, modify, and distribute derivative versions of its own Assets for any reason, whether for personal use or commissioned work.
